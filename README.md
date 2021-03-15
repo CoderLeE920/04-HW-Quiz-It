@@ -15,3 +15,4 @@
 - WHEN the game is over
 - THEN I can save my initials and my score
 
+![image](https://i.postimg.cc/jj9KB2Jw/quiz-it.png)
